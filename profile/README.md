@@ -1,12 +1,23 @@
-## Hi there 👋
+# 부산 지역문제 해결 해커톤
 
-<!--
+## 개발 기간
+2월 17일(월) ~ 2월 18일(화)
+## Tools
+### Frontend
+- thymeleaf
 
-**Here are some ideas to get you started:**
+### Backend
+- Spring boot
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Video 
+https://github.com/user-attachments/assets/db27ef49-5b8c-44bc-b616-0f0b8697e3d0
+
+
+## 기능 구현
+- 로그인 기능
+- 게시물 등록
+- 게시물 상세 조회
+- 후원하기
+- 마이페이지
+  - 후원하는 정보
+  - 내정보
